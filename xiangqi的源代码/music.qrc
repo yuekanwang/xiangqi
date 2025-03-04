@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Music/SceneMusic1.mp3</file>
+        <file>Music/SceneMusic2.mp3</file>
+        <file>Music/StoneKill.wav</file>
+        <file>Music/StoneMove.wav</file>
+        <file>Music/attack.wav</file>
+        <file>Music/Lore.wav</file>
+        <file>Music/eat.wav</file>
+    </qresource>
+</RCC>

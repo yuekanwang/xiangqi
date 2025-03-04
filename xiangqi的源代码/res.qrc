@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainscene/mainprint(fangyuan).jpg</file>
+        <file>mainscene/Gamesceneprint.jpg</file>
+        <file>mainscene/lansheep.png</file>
+        <file>mainscene/GameSceneprint2.png</file>
+    </qresource>
+</RCC>
